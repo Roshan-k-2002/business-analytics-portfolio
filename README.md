@@ -1,4 +1,4 @@
-End-to-end data analytics projects:
+OPERATIONS ANALYTICS: End-to-end data analytics project:
 
 ```text
 ├── DATA/                  <- Raw data link & processed data (.csv metadata)
